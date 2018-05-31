@@ -14,3 +14,7 @@ The classic mix of React and Bootstrap
 https://react-bootstrap.github.io/
 
 Please don't forget to include Its CSS Files
+
+React Table ->
+
+React Chart JS -> 

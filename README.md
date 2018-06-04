@@ -18,3 +18,10 @@ Please don't forget to include Its CSS Files
 React Table ->
 
 React Chart JS -> 
+
+For Pop Up ->
+  https://hackernoon.com/introducing-reactjs-popup-modals-tooltips-and-menus-all-in-one-227de37766fa
+ 
+Understanding Router and routes ->
+  https://www.youtube.com/watch?v=XRfD8xIOroA 
+
